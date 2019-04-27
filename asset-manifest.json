@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deployed-memory-game/static/css/main.584f321a.chunk.css",
+    "main.js": "/deployed-memory-game/static/js/main.278cb3e5.chunk.js",
+    "main.js.map": "/deployed-memory-game/static/js/main.278cb3e5.chunk.js.map",
+    "runtime~main.js": "/deployed-memory-game/static/js/runtime~main.92f0ab53.js",
+    "runtime~main.js.map": "/deployed-memory-game/static/js/runtime~main.92f0ab53.js.map",
+    "static/js/2.b41502e9.chunk.js": "/deployed-memory-game/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/deployed-memory-game/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/deployed-memory-game/index.html",
+    "precache-manifest.b19aeea5df6fc937b04b70951ca70305.js": "/deployed-memory-game/precache-manifest.b19aeea5df6fc937b04b70951ca70305.js",
+    "service-worker.js": "/deployed-memory-game/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/deployed-memory-game/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/deployed-memory-game/static/media/logo.5d5d9eef.svg"
+  }
+}
