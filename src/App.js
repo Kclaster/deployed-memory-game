@@ -1,26 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import Pics from './Pics';
 
-function App() {
+const App = () => {
+  let [clickedPics, setClickedPics] = useState([]);
+  let [newArr, setNewArr] = useState(false);
+  let [score, setScore] = useState(0);
+
+  const handleClick = (evt, num) => {
+    console.log(num);
+    if (clickedPics.includes(num)) {
+      setScore(0);
+      setClickedPics([]);
+      setNewArr(!newArr);
+    } else {
+      setClickedPics([...clickedPics, num]);
+      setScore(score + 1);
+      setNewArr(!newArr);
+    }
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Score: {score}</h1>
+      <Pics newArr={newArr} handleClick={handleClick} />
     </div>
   );
-}
+};
 
 export default App;
