@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/deployed-memory-game/static/css/main.584f321a.chunk.css",
-    "main.js": "/deployed-memory-game/static/js/main.278cb3e5.chunk.js",
-    "main.js.map": "/deployed-memory-game/static/js/main.278cb3e5.chunk.js.map",
+    "main.js": "/deployed-memory-game/static/js/main.0ab5ec15.chunk.js",
+    "main.js.map": "/deployed-memory-game/static/js/main.0ab5ec15.chunk.js.map",
     "runtime~main.js": "/deployed-memory-game/static/js/runtime~main.92f0ab53.js",
     "runtime~main.js.map": "/deployed-memory-game/static/js/runtime~main.92f0ab53.js.map",
-    "static/js/2.b41502e9.chunk.js": "/deployed-memory-game/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/deployed-memory-game/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.927b0ef0.chunk.js": "/deployed-memory-game/static/js/2.927b0ef0.chunk.js",
+    "static/js/2.927b0ef0.chunk.js.map": "/deployed-memory-game/static/js/2.927b0ef0.chunk.js.map",
     "index.html": "/deployed-memory-game/index.html",
-    "precache-manifest.b19aeea5df6fc937b04b70951ca70305.js": "/deployed-memory-game/precache-manifest.b19aeea5df6fc937b04b70951ca70305.js",
+    "precache-manifest.fffba73e0174c9eca018ba8d088515da.js": "/deployed-memory-game/precache-manifest.fffba73e0174c9eca018ba8d088515da.js",
     "service-worker.js": "/deployed-memory-game/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/deployed-memory-game/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/deployed-memory-game/static/media/logo.5d5d9eef.svg"
+    "static/media/krabs.jpg": "/deployed-memory-game/static/media/krabs.6e4e6727.jpg",
+    "static/media/plankton.jpg": "/deployed-memory-game/static/media/plankton.43ae49ba.jpg",
+    "static/media/puff.jpg": "/deployed-memory-game/static/media/puff.2925b6d9.jpg",
+    "static/media/spongebob.jpg": "/deployed-memory-game/static/media/spongebob.a1489a8a.jpg"
   }
 }
